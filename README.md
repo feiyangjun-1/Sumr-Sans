@@ -13,4 +13,4 @@
 5. 目前版本仅为补字，之后会慢慢修改字形使其符合内地、港台的标准。
 6. 如有发现问题请在 [Issues](https://github.com/feiyangjun-1/Sumr-Sans/issues) 提出。
 
-本字体使用 OFL 协议，可免费商用、随意修改等。
+本字体沿用 MIT 协议，可随意使用。
