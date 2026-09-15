@@ -11,6 +11,6 @@
 3. 程序生成的字体会有不协调的问题。
 4. 虽然已经人工检查，但可能还是会有部分字有错误（少比划之类的）。
 5. 目前版本仅为补字，之后会慢慢修改字形使其符合内地、港台的标准。
-6. 如有发现问题请在 [Issues](https://github.com/feiyangjun-1/kirakara-round/issues) 提出。
+6. 如有发现问题请在 [Issues](https://github.com/feiyangjun-1/Sumr-Sans/issues) 提出。
 
 本字体使用 OFL 协议，可免费商用、随意修改等。
