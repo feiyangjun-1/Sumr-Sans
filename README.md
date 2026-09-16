@@ -1,5 +1,5 @@
 # 立夏黑体 Sumr Sans
-一个基于 [小夏字体](https://www.masuseki.com/wp/?p=233) 增补汉字的黑体。使用 [zi2zi-JiT](https://github.com/kaonashi-tyc/zi2zi-JiT) 训练其风格，以 [文渊黑体、文渊宋体](https://github.com/takushun-wu/WenYuanFonts) 为结构参考字体,进行补字。
+一个基于 [小夏字体](https://www.masuseki.com/wp/?p=233) 增补汉字的黑体。使用 [zi2zi-JiT](https://github.com/kaonashi-tyc/zi2zi-JiT) 训练其风格，以 [文渊黑体、文渊宋体](https://github.com/takushun-wu/WenYuanFonts) 为结构参考字体，进行补字。
 
 目前已覆盖绝大部分 GB2312、现代汉语常用字表、现代汉语通用字表、义务教育语文课程常用字表、通用规范汉字表、[落霞孤鹜 外字初步整理表（第一部分）](https://github.com/lxgw/ext-characters/blob/main/tables/ext_characters_table_1.md)、[绵饴字集](https://www.maoken.com/eyes/business/27905.html) 和 [NAF194](https://github.com/Hansha2011/NAF/blob/main/NAF194.md)。
 
