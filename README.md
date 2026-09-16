@@ -14,4 +14,5 @@
 6. 如有发现问题请在 [Issues](https://github.com/feiyangjun-1/Sumr-Sans/issues) 提出。
 
 本来想沿用小夏的 MIT 协议，但是因为参考用的文渊是 OFL，目前对于 AI 造字还没有明确规定，所以还是选择了 OFL。
+
 本字体为 OFL 协议，可免费商用，随意修改等。
